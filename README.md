@@ -278,7 +278,7 @@ Most of the prompts I collected from [here](https://x.com/dotey/status/172283112
 - [Summarizer ㆍYouTube PDF Book Article Web Text Code](./prompts/Summarizer%20%E2%80%A2YouTube%20PDF%20Book%20Article%20Web%20Text%20Code.md) by Frames
 
 
-
+Best prompts. If you have any additional feel free to add them! 
 
 
 
